@@ -5,4 +5,4 @@ My first public repository - Squirrels unite!
 
 Another test image here:
 
-![You should see something here](https://github.com/RollingSquirrel/gitexample/blob/master/negativeCycleUpload.png)
+![You should see something here. Invisible!](https://github.com/RollingSquirrel/gitexample/blob/master/negativeCycleUpload.png)
